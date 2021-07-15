@@ -1,0 +1,5 @@
+train: ../competition_data/train/images
+val: ../competition_data/valid/images
+
+nc: 5
+names: ['0','1','2','3','4']
